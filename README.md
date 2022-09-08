@@ -10,7 +10,7 @@ For more details, please click [this link](https://docs.google.com/presentation/
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
 
-    git clone https://github.com/DLCV-Fall-2021/hw1-<username>.git
+    git clone https://github.com/DLCV-Fall-2022/hw1-<username>.git
 Note that you should replace `<username>` with your own GitHub username.
 
 ### Dataset
@@ -39,7 +39,7 @@ To visualization the ground truth or predicted semantic segmentation map in an i
 
 # Submission Rules
 ### Deadline
-2021/10/26 (Tue.) 11:59 PM
+2022/10/11 (Tue.) 11:59 PM
 
 ### Late Submission Policy
 You have a three-day delay quota for the whole semester. Once you have exceeded your quota, the credit of any late submission will be deducted by 30% each day.
