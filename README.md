@@ -12,7 +12,7 @@ Note that you should replace `<username>` with your own GitHub username.
 2022/10/11 (Tue.) 11:59 PM
 
 ### Packages
-This homework should be done using python3.6. For a list of packages you are allowed to import in this assignment, please refer to the requirments.txt for more details.
+This homework should be done using python3.8. For a list of packages you are allowed to import in this assignment, please refer to the requirments.txt for more details.
 
 You can run the following command to install all the packages listed in the requirements.txt:
 
