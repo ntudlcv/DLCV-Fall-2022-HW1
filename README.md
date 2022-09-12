@@ -1,5 +1,5 @@
 
-Please click [this link](https://docs.google.com/presentation/d/1H4O5NrEK-AzS2jRggWSpzs9hHEsYlCNYQdJbHlDfH48/edit?usp=sharing) to view the slides of HW1
+Please click [this link](https://docs.google.com/presentation/d/1lXkZrUrV209kMSGn6Lg37rno0Kp_zbdyxOl0K8F9U_E/edit?usp=sharing) to view the slides of HW1
 
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
